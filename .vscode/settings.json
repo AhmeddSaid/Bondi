@@ -1,0 +1,7 @@
+{
+  "prettier.printWidth": 120,
+  "editor.tabSize": 2,
+  "prettier.useTabs": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "indentRainbow.colorOnWhiteSpaceOnly": false
+}
